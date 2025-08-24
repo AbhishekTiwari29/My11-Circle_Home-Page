@@ -1,0 +1,165 @@
+
+*{
+    margin: 0;
+    padding: 0;   
+}
+.flex_container{
+    width: 550px;
+    height: 895px;
+}
+.upper_part{
+    width: 550px;
+    height: 100px;
+    
+}
+.heading{
+    text-align: center;
+    padding-top: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    
+}
+.main_logo{
+    padding-left: 200px;
+    padding-top: 12px;
+}
+.centre{
+    width: 550px;
+    height: 130px;
+    margin-top: 30px;
+    padding-left: 0%;
+    
+}
+.login_text{
+    text-align: center;
+    font-family: Arial;
+    padding-top: 22px;
+    font-size: 14px;
+    font-weight: 700;
+
+
+}
+.username_cont{
+    border: 1px solid rgb(143, 131, 131);
+    width: 50px;
+    height: 50px;
+    margin-top: 40px;
+    margin-left: 18px;
+    border-right:none ;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+
+}
+.entry{
+    height: 48px;
+    width: 452px;
+    margin-top: 40px;
+    opacity: 0.7;
+    margin-left: -1px;
+
+}
+.username{
+    display: flex;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+
+
+}
+.cont{
+    width: 505px;
+    height: 41px;
+    margin-top:20px;
+    margin-left: 20px;
+    border-radius: 5px;
+    color: white;
+    background-color: rgb(11, 184, 11);
+    font-size: 15px;
+    font-weight: 600;
+    border: none;
+
+}
+.bottom_second{
+    width: 550px;
+    height: 400px;
+}
+.term_condition{
+    margin: 22px;
+    font-size:12px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 50px;
+    color: rgb(172, 152, 152);
+    
+}
+.age{
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    background-color: red;
+    border: none;
+    color: white;
+    font-size: 13px;
+    font-weight: 200;
+    
+}
+a{
+    text-decoration: none;
+}
+.phone{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 60px;
+    text-align: center;
+    font-size: 11.5px;
+    margin-top: 78px;
+    letter-spacing: 0.6px;
+}
+.mobile{
+    font-size: 14px;
+    font-weight: 600;
+    color: rgb(226, 51, 51);
+    letter-spacing: 0.5px;
+}
+.futter{
+    width: 550px;
+}
+.red_box{
+    height: 64px;
+    font-weight: 550px;
+    margin-top: 120px;
+    background-color: red;
+}
+.futter_image{
+    position: relative;
+    bottom: 36px;
+    left: 98px;
+}
+.futter_text{
+    margin: 17px;
+    text-align: center;
+    font-size:11px ;
+    position: relative;
+    top: 8px;
+    font-family: Arial, Helvetica, sans-serif;
+    opacity: 0.9;
+    
+}
+.flex_container_2{
+    width:730px;
+    height: 895px;
+}
+.flexbox{
+    display: flex;
+}
+.main_image{
+    width: 730px;
+    height: 895px;
+}
+.fa-sharp { 
+    opacity: 0.4;
+    position: relative;
+    top: 15px;
+    left: 15px;
+    border-radius: 0px;
+    
+    
+}
+
